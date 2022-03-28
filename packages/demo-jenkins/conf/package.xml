@@ -1,0 +1,5 @@
+<package stateOnStartup="started" id="demo-jenkins" version="1.0.0-SNAPSHOT" context-path="/demo-jenkins">
+  <package-dependencies/>
+  <startup-services/>
+  <shutdown-services/>
+</package>
